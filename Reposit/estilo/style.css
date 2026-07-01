@@ -78,7 +78,9 @@ main article #doispg {
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    gap: 100px;
     height: 800px;
+    
 }
 
 main article #doispg .rigth{
@@ -109,4 +111,8 @@ main article #doispg .rigth button {
     color: white;
 }
 
+
+main article #doispg .left img {
+    width: 600px;
+}
 
